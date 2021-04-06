@@ -1,0 +1,22 @@
+- map
+
+Input: key = LongWritable, value = Text
+
+Output: key = Text, value = IntWritable
+
+* get the priority ( 5ème column)
+* calcul the delay between the order date and the ship date (8ème column - 6ème column)
+* for each row, add an output key/value pair of <priority, delay>
+
+- reduce
+
+Input: key = Text, value = IntWritable
+
+Output: key = Text, value = IntWritable
+
+* calculate the sum for each of the delay associated with the priority
+* add an output key/value pair of <priority, ave_delay>
+
+
+
+

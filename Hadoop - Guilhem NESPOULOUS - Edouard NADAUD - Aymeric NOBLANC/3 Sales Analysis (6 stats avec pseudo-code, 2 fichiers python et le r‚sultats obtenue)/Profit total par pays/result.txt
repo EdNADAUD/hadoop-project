@@ -1,0 +1,185 @@
+Canada	26880954.8
+East Timor	15514056.29
+Sao Tome and Principe	14810451.22
+Turkmenistan	22995182.16
+United States of America	26534771.44
+Lithuania	28063374.02
+Cambodia	23744162.89
+Ethiopia	26936729.4
+The Gambia	18318875.15
+Swaziland	25107661.7
+Cameroon	19125131.25
+Burkina Faso	23363130.6
+Saint Kitts and Nevis 	23055279.04
+Ghana	21031887.89
+Saudi Arabia	21007766.99
+Cape Verde	14383303.52
+Slovenia	22158888.66
+Guatemala	22478915.51
+Bosnia and Herzegovina	24070486.58
+Kuwait	24806422.69
+Germany	25249874.36
+Dominica	19953536.13
+Liberia	15406339.43
+Maldives	22027274.19
+Pakistan	19728342.38
+Oman	18611356.62
+Tanzania	21152258.93
+Seychelles 	23695801.12
+Mauritania	17659556.28
+Greenland	21588001.48
+Gabon	17988031.4
+Monaco	17391076.44
+New Zealand	25895477.04
+Yemen	16666875.07
+Jamaica	19610345.96
+Albania	19583969.7
+United Arab Emirates	24667842.06
+India	24289892.46
+Azerbaijan	25826708.0
+Lesotho	16821465.94
+Saint Vincent and the Grenadines	18375321.24
+Kenya	20805944.22
+South Korea	23893933.75
+Tajikistan	13662027.26
+Turkey	15019621.17
+Afghanistan	22977020.06
+Bangladesh	28092720.77
+Antigua and Barbuda 	17792979.41
+Solomon Islands	17814961.65
+Saint Lucia	16973452.63
+San Marino	18369190.23
+Mongolia	25107838.95
+France	19199104.96
+Rwanda	27726111.5
+Slovakia	20322490.05
+Somalia	23285546.1
+Laos	18775038.48
+Nauru	18646871.84
+Norway	18836470.19
+Cote d'Ivoire	14521698.84
+Benin	22273920.68
+Federated States of Micronesia	24231292.53
+Cuba	17888775.8
+Montenegro	22082815.77
+Republic of the Congo	16694580.9
+Togo	20026536.18
+China	24708015.72
+Armenia	15509887.29
+Dominican Republic	18082348.47
+Ukraine	21057819.96
+Bahrain	27517228.2
+Tonga	17229813.76
+Finland	23066495.2
+Libya	18622683.36
+Indonesia	16010222.29
+Central African Republic	18990655.55
+Liechtenstein	23301377.83
+Belarus	18612786.01
+Mali	13800334.9
+Vatican City	16978429.04
+Russia	24860366.23
+Bulgaria	20787888.73
+Mauritius 	19702913.75
+Romania	21184881.84
+Angola	19596150.58
+Chad	22863353.1
+South Africa	18511026.57
+Cyprus	21441456.67
+Sweden	18874303.51
+Qatar	30861356.79
+Malaysia	16015753.2
+Austria	26799045.64
+Vietnam	23415377.02
+Mozambique	20902729.01
+Uganda	25940655.31
+Japan	18574894.88
+Niger	22306185.25
+Guinea	21702071.21
+Panama	22253481.51
+Costa Rica	18931889.28
+Luxembourg	21219788.11
+Andorra	16653936.87
+The Bahamas	17012150.99
+Ireland	27807805.05
+Palau	23894809.95
+Nigeria	24139351.98
+Czech Republic	19679058.24
+Brunei	21198560.2
+Australia	22393836.8
+Iran	24141593.92
+Algeria	22125886.64
+El Salvador	26661333.33
+Tuvalu	23279592.0
+Marshall Islands	17438109.33
+Belgium	19992722.34
+Kiribati	32454798.26
+Haiti	20239742.03
+Belize	14384763.7
+Sierra Leone	19665083.04
+Georgia	21670883.45
+Samoa 	19499628.09
+Denmark	23120649.29
+Philippines	24616126.67
+Morocco	26827648.12
+Croatia	26096999.84
+Guinea-Bissau	23049675.02
+Thailand	20707529.62
+Switzerland	22497403.85
+Grenada	30302769.9
+Iraq	19631817.38
+Portugal	25449810.79
+Estonia	19139460.85
+Kosovo	20595410.25
+Mexico	24491787.4
+Lebanon	20381122.18
+Uzbekistan	24896258.16
+Djibouti	18127339.1
+Spain	20406015.35
+Burundi	27911293.45
+Taiwan	30044779.98
+Fiji	23738722.65
+Barbados	19091685.05
+Madagascar	21260893.29
+Italy	14199991.25
+Bhutan	23833769.24
+Sudan	22945568.53
+Nepal	16677397.51
+Malta	14163744.55
+Democratic Republic of the Congo	20433705.79
+Netherlands	23340250.87
+United Kingdom	25528037.97
+Israel	21072528.91
+Tunisia 	26189597.16
+Iceland	26554631.85
+Zambia	23637453.0
+Senegal	24776094.02
+Papua New Guinea	22083108.35
+Malawi	29329125.05
+Zimbabwe	21174631.76
+Jordan	21165744.03
+Vanuatu	19956132.87
+Kazakhstan	23265602.75
+Poland	22846126.09
+Eritrea	20805875.41
+Kyrgyzstan	22736962.39
+Macedonia	20092232.37
+North Korea	22062373.05
+Trinidad and Tobago	18506428.57
+Latvia	17878505.86
+South Sudan	21193783.38
+Hungary	15943684.1
+Syria	14536103.72
+Honduras	23919286.87
+Myanmar	18948513.11
+Equatorial Guinea	15561670.41
+Egypt	24253082.98
+Nicaragua	17843364.3
+Singapore	14709325.91
+Serbia	23310104.51
+Botswana	29019726.67
+Moldova 	25700896.77
+Greece	25308983.42
+Sri Lanka	22393764.24
+Namibia	16774838.75
+Comoros	17670491.47

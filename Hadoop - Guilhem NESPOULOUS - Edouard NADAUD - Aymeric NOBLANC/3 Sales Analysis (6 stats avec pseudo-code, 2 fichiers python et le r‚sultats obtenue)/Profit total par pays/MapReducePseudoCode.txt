@@ -1,0 +1,22 @@
+- map
+
+Input: key = LongWritable, value = Text
+
+Output: key = Text, value = IntWritable
+
+* get the country (2ème column)
+* get the total profit (last column) (delete the last character ('\')
+* for each row, add an output key/value pair of <country, totalProfit>
+
+- reduce
+
+Input: key = Text, value = IntWritable
+
+Output: key = Text, value = IntWritable
+
+* calculate the sum for each of the total profit associated with a country 
+* add an output key/value pair of <country, totalProfit_country>
+
+
+
+

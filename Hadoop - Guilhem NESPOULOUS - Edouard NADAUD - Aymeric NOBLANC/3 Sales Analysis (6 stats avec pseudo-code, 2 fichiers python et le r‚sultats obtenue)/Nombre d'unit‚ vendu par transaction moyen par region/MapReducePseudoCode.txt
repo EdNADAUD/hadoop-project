@@ -1,0 +1,22 @@
+- map
+
+Input: key = LongWritable, value = Text
+
+Output: key = Text, value = IntWritable
+
+* get the region (1ème column)
+* get the units sold (9ème column)
+* for each row, add an output key/value pair of <region, unitSold>
+
+- reduce
+
+Input: key = Text, value = IntWritable
+
+Output: key = Text, value = IntWritable
+
+* calculate the sum for each units sold associated with a region 
+* add an output key/value pair of <region, ave_unitSold>
+
+
+
+

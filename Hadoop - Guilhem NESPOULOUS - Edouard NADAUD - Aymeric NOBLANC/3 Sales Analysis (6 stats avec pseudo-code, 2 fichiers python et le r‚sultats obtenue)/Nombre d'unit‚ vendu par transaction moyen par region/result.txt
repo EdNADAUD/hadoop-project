@@ -1,0 +1,7 @@
+Europe	4920.38473224
+Australia and Oceania	4986.76913425
+Central America and the Caribbean	5081.06280667
+Asia	5015.48808713
+North America	5373.35813953
+Sub-Saharan Africa	4967.80752977
+Middle East and North Africa	5116.21914557

@@ -1,0 +1,21 @@
+- map
+
+Input: key = LongWritable, value = Text
+
+Output: key = Text, value = IntWritable
+
+* get the item type (3ème column)
+* for each row, add an output key/value pair of <itemType, 1>
+
+- reduce
+
+Input: key = Text, value = IntWritable
+
+Output: key = Text, value = IntWritable
+
+* calculate the number of row for a item type
+* add an output key/value pair of <itemType, nbItemType>
+
+
+
+

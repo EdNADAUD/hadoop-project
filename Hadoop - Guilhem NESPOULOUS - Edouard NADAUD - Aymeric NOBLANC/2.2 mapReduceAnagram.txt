@@ -1,0 +1,23 @@
+- map
+
+Input: key = LongWritable, value = Text
+
+Output: key = Text, value = Text
+
+* split up the value text into words
+* split up each word into characters
+* for each word, sort all characters by alphabetical order (wordSort)
+* for each word, add an output key/value pair of <wordSort, word>
+
+- reduce
+
+Input: key = Text, value = Text (or Iterator<Text>, either way of writing this is fine for me)
+
+Output: key = IntWritable, value = Text
+
+* calculate the sum for each of the values associated with the key
+* add an output key/value pair of <sum, allAnagramWords>, that is how many times the anagram occurred and all the anagram word
+
+
+
+

@@ -1,0 +1,21 @@
+- map
+
+Input: key = LongWritable, value = Text
+
+Output: key = Text, value = IntWritable
+
+* get the sale channel (4ème column)
+* for each row, add an output key/value pair of <salesChannel, 1>
+
+- reduce
+
+Input: key = Text, value = IntWritable
+
+Output: key = Text, value = IntWritable
+
+* calculate the number of row for a sales channel
+* add an output key/value pair of <salesChannel, nbSalesChannel>
+
+
+
+

@@ -1,0 +1,12 @@
+Meat	798
+Snacks	816
+Baby Food	842
+Household	875
+Beverages	782
+Personal Care	888
+Cosmetics	834
+Cereal	825
+Fruits	795
+Vegetables	836
+Office Supplies	837
+Clothes	872
